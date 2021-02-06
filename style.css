@@ -1,0 +1,10 @@
+h1,h2{
+  font-size: 25px;
+  font-family: cursive;
+}
+p strong,em{
+    font: italic 15px '휴먼굵은팸체';
+}
+li{
+  font: bold 18px '휴먼매직체';
+}
